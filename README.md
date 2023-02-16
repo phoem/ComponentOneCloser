@@ -10,3 +10,8 @@ development workflow.
 I want to be VERY clear, I do not condone software piracy.  I only condone getting rid of the nag screens in this
 situation where the license is already paid for by the company, but since development is done on a different machine
 the nag screen occurs.
+
+# What does this software do?
+- On startup it will place itself in the system tray and wait for certain windows to show up and when they do, it clicks "ok" and the window goes away.
+- It keeps count of each nag screen that it has closed since startup.
+- Can be configured to run on startup via the registry
